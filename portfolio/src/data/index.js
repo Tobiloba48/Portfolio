@@ -1,18 +1,18 @@
 export const projects = [
-  {
-    num: '001',
-    title: 'E-Commerce Storefront',
-    desc: 'A fully responsive online store built with React and vanilla CSS. Features cart management, product filtering, and a smooth checkout flow.',
-    tags: ['React', 'JavaScript', 'CSS'],
-    href: '#',
-  },
-  {
-    num: '002',
-    title: 'Dashboard UI Kit',
-    desc: 'A component library and admin dashboard template. Built with reusable React components and a clean, data-dense design language.',
-    tags: ['React', 'HTML', 'CSS'],
-    href: '#',
-  },
+{
+  num: '001',
+  title: 'ViewPrice — E-Commerce Platform',
+  desc: 'A full-featured shopping platform inspired by Jumia. Browse products by category, add to cart, and complete purchases through a smooth multi-step checkout. Built with React and CSS.',
+  tags: ['React', 'JavaScript', 'CSS'],
+  href: '#',
+},
+{
+  num: '002',
+  title: 'TicketHub — Event Booking App',
+  desc: 'A ticket purchasing app for browsing and booking event tickets. Features event listings, seat or quantity selection, and a streamlined payment flow. Built with React.',
+  tags: ['React', 'JavaScript', 'CSS'],
+  href: '#',
+},
 ];
 
 export const skills = [
@@ -25,14 +25,15 @@ export const skills = [
 ];
 
 export const contactLinks = [
-  { label: 'Email',    val: 'ibrahim@example.com',    href: 'mailto:ibrahim@example.com' },
+  { label: 'Email',    val: 'tobisalam48@gmail.com',    href: 'mailto:tobisalam48@gmail.com' },
   { label: 'GitHub',   val: 'github.com/ibrahim',      href: 'https://github.com' },
   { label: 'LinkedIn', val: 'linkedin.com/in/ibrahim', href: 'https://linkedin.com' },
+  { label: 'LinkedIn', val: 'Instagram.com/ig/ibrahim', href: 'https://www.instagram.com/tobi_salam_?igsh=MTYyNjVyODM1bWdyag==' },
 ];
 
 export const stats = [
-  { num: '3+', label: 'Years building' },
-  { num: '10+', label: 'Projects shipped' },
+  { num: '1+', label: 'Years building' },
+  { num: '3+', label: 'Projects shipped' },
   { num: '4',   label: 'Core technologies' },
   { num: '∞',   label: 'Attention to detail' },
 ];
