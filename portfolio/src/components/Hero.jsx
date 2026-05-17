@@ -10,7 +10,7 @@ const Hero = () => {
     >
       {/* Year */}
       <div style={{ position: 'absolute', top: '8rem', left: '3rem', fontFamily: 'var(--mono)', fontSize: '9px', color: 'var(--text-dim)', letterSpacing: '0.2em' }}>
-        2025
+        2026
       </div>
 
       {/* Vertical label */}

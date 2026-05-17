@@ -26,8 +26,8 @@ export const skills = [
 
 export const contactLinks = [
   { label: 'Email',    val: 'tobisalam48@gmail.com',    href: 'mailto:tobisalam48@gmail.com' },
-  { label: 'GitHub',   val: 'github.com/ibrahim',      href: 'https://github.com' },
-  { label: 'LinkedIn', val: 'linkedin.com/in/ibrahim', href: 'https://linkedin.com' },
+  { label: 'GitHub',   val: 'github.com/ibrahim',      href: 'https://github.com/Tobiloba48' },
+  { label: 'LinkedIn', val: 'linkedin.com/in/ibrahim', href: 'www.linkedin.com/in/ibrahim-abdulsalam-062a0027b' },
   { label: 'LinkedIn', val: 'Instagram.com/ig/ibrahim', href: 'https://www.instagram.com/tobi_salam_?igsh=MTYyNjVyODM1bWdyag==' },
 ];
 
